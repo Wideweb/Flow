@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <Cell>
+    <Image>
+      <Path>Gameplay/Cell_01</Path>
+      <Scale>
+        <X>0.15</X>
+        <Y>0.15</Y>
+      </Scale>
+    </Image>
+    <MoveSpeed>150</MoveSpeed>
+    <Acceleration>400</Acceleration>
+    <DeccelerationRate>650</DeccelerationRate>
+  </Cell>

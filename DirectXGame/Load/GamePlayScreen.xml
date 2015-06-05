@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GamePlayScreen>
+  <Image>
+    <Path>MenuScreen/MenuImage</Path>
+    <isActive>true</isActive>
+    <Position>
+      <X>0</X>
+      <Y>0</Y>
+    </Position>
+    <Alpha>0.5</Alpha>
+  </Image>
+</GamePlayScreen>

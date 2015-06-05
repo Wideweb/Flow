@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Liner>
+  <isControled>true</isControled>
+  <HittingDelay>2000</HittingDelay>
+  <LinerHead>
+    <isActive>true</isActive>
+    <Image>
+      <Path>Gameplay/Liner</Path>
+      <Effects>ExtendedSpriteSheetEffect</Effects>
+    </Image>
+    <MoveSpeed>150</MoveSpeed>
+    <Acceleration>400</Acceleration>
+    <DeccelerationRate>650</DeccelerationRate>
+  </LinerHead>
+
+  <Cell>
+    <Image>
+      <Path>Gameplay/Cell_01</Path>
+      <Scale>
+        <X>0.15</X>
+        <Y>0.15</Y>
+      </Scale>
+    </Image>
+    <MoveSpeed>150</MoveSpeed>
+    <Acceleration>400</Acceleration>
+    <DeccelerationRate>650</DeccelerationRate>
+  </Cell>
+
+  <Cell>
+    <Image>
+      <Path>Gameplay/Cell_01</Path>
+      <Scale>
+        <X>0.15</X>
+        <Y>0.15</Y>
+      </Scale>
+    </Image>
+    <MoveSpeed>150</MoveSpeed>
+    <Acceleration>400</Acceleration>
+    <DeccelerationRate>650</DeccelerationRate>
+  </Cell>
+
+  <Cell>
+    <Image>
+      <Path>Gameplay/Cell_01</Path>
+      <Scale>
+        <X>0.15</X>
+        <Y>0.15</Y>
+      </Scale>
+    </Image>
+    <MoveSpeed>150</MoveSpeed>
+    <Acceleration>400</Acceleration>
+    <DeccelerationRate>650</DeccelerationRate>
+  </Cell>
+
+  <LinerTail>
+    <Image>
+      <Path>Gameplay/Tail</Path>
+      <Scale>
+        <X>1</X>
+        <Y>1</Y>
+      </Scale>
+    </Image>
+    <MoveSpeed>150</MoveSpeed>
+    <Acceleration>400</Acceleration>
+    <DeccelerationRate>650</DeccelerationRate>
+  </LinerTail>
+
+
+</Liner>

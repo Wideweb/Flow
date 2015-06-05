@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<InitialScreen>
+  <Delay>2</Delay>
+  <Image>
+    <Text>Alckevich Entertainment</Text>
+    <Path>Flow</Path>
+    <isActive>true</isActive>
+    <Position>
+      <X>0</X>
+      <Y>0</Y>
+    </Position>
+    <Alpha>1</Alpha>
+  </Image>
+</InitialScreen>
